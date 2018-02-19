@@ -7,7 +7,7 @@ Ths source code for the library can be found in the RegexGM folder, and an examp
 In addition to the source, the library is fully documented [here](https://precisamento.github.io/extensions/regex-for-gm/). 
 To quickly install the library, you can find it for free on the [marketplace](https://marketplace.yoyogames.com/assets/6358/regexgm).
 
-Maintained by: Mystborn (@Mystborn#0264 on Discord)
+Maintained by: mystborn (@mystborn#0264 on Discord)
 
 # Example
 ```cs
