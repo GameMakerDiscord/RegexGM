@@ -700,7 +700,7 @@
           <hidden>0</hidden>
         </constant>
         <constant>
-          <name>RO_INGORE_CASE</name>
+          <name>RO_IGNORE_CASE</name>
           <value>1</value>
           <hidden>0</hidden>
         </constant>
