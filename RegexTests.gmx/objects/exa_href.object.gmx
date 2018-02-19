@@ -26,7 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>var pattern ="href\s*=\s*(?:[" + '"' + "'](?&lt;1&gt;[^" + '"' + "']*)[" + '"' + "']|(&lt;1&gt;\S+))"; 
-var regex = regex_create(pattern, RO_INGORE_CASE | RO_COMPILED, 1000);
+var regex = regex_create(pattern, RO_IGNORE_CASE | RO_COMPILED, 1000);
 var input = "My favorite web sites include:&lt;/P&gt;" +
             '&lt;A HREF="http://msdn2.microsoft.com"&gt;' +
             "MSDN Home Page&lt;/A&gt;&lt;/P&gt;" +

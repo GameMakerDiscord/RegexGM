@@ -26,7 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>var regex = regex_create("\b(?&lt;word&gt;\w+)\s+(\k&lt;word&gt;)\b", 
-                            RO_COMPILED | RO_INGORE_CASE, 3000);
+                            RO_COMPILED | RO_IGNORE_CASE, 3000);
 
 var input = "The the quick brown fox fox jumped over the lazy dog dog.";
 
