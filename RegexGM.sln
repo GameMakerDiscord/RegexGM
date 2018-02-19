@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexGM", "RegexGM\RegexGM.csproj", "{C20D302F-5C8C-4BA1-92FB-DF84F2126554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20D302F-5C8C-4BA1-92FB-DF84F2126554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20D302F-5C8C-4BA1-92FB-DF84F2126554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20D302F-5C8C-4BA1-92FB-DF84F2126554}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C20D302F-5C8C-4BA1-92FB-DF84F2126554}.Debug|x86.Build.0 = Debug|Any CPU
+		{C20D302F-5C8C-4BA1-92FB-DF84F2126554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20D302F-5C8C-4BA1-92FB-DF84F2126554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20D302F-5C8C-4BA1-92FB-DF84F2126554}.Release|x86.ActiveCfg = Release|x86
+		{C20D302F-5C8C-4BA1-92FB-DF84F2126554}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C400C67D-8657-44DA-A069-59E3E43EC3A0}
+	EndGlobalSection
+EndGlobal
